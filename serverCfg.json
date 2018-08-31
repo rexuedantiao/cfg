@@ -1,7 +1,7 @@
 {
 	"serverCfgList":[
 		"https://www.queentengame.com:8099/weixin_xiaoyouxi/rexuedantiao/client/serverCfg.json"
-		"https://www.queentengame.com:8099/weixin_xiaoyouxi/rexuedantiao/client/serverCfg.json"
+		"https://raw.githubusercontent.com/rexuedantiao/cfg/master/serverCfg.json"
 	]
 	
 	,"serverIp":"www.queentengame.com:9841"
